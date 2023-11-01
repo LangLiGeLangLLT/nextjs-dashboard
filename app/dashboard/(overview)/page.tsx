@@ -9,8 +9,6 @@ import {
 } from '@/app/ui/skeletons'
 import Cards from '@/app/ui/dashboard/cards'
 
-export const dynamic = 'force-dynamic'
-
 export default async function Page() {
   return (
     <main>
